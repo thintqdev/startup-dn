@@ -1,0 +1,1 @@
+docker build --build-arg NODE_ENV=production -t mystrapiapp:latest -f Dockerfile.prod .
